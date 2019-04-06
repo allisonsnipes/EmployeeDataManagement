@@ -20,3 +20,4 @@
   var rate = 0;
   document.querySelector("#btnname").addEventListener("click", function(event) {
     event.preventDefault();
+}
